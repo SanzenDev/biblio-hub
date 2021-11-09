@@ -44,7 +44,7 @@
     "redux-immutable": "^4.0.0",
     "redux-thunk": "^2.3.0",
     "uuid": "^3.3.2",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "webfontloader": "^1.6.28"
   },
   "scripts": {
