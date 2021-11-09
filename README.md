@@ -1,3 +1,5 @@
+PS: Ce projet datait de 2019, les codes et les libs ne sont plus mis à jour depuis.
+
 # biblioHUB
 C'est un projet personnel de gestion de livre et téléchargement d'ebook en plusieurs format avec une partie administration et authentification.
 > Une app de gestion et de téléchargement de livre developpé en MERN-Stack.
