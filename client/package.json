@@ -16,7 +16,7 @@
     "jwt-decode": "^2.2.0",
     "material-ui-password-field": "^2.0.1",
     "mdi-material-ui": "^5.11.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-final-form": "^4.1.0",
