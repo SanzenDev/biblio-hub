@@ -32,7 +32,7 @@
     "react-router-dom": "^5.0.0",
     "react-router-google-analytics": "^1.0.4",
     "react-router-redux": "^4.0.8",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-select-plus": "^1.1.0",
     "react-share": "^3.0.0",
     "react-syntax-highlighter": "^10.2.1",
